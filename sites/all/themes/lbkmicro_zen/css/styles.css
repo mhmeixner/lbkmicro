@@ -1763,16 +1763,6 @@ tr.selected td {
     display: none;
   }
 }
-/* line 43, ../sass/_mycustomstyle.scss */
-#header {
-  background-color: green;
-}
-
-/* line 47, ../sass/_mycustomstyle.scss */
-body {
-  background-color: red;
-}
-
 /* SMACSS theme rules */
 /* @import "theme-A"; */
 /* @import "theme-B"; */
