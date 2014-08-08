@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the all strongarm feature.
+ */
+
+include_once 'all_strongarm.features.inc';
